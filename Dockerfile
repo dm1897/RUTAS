@@ -17,4 +17,4 @@ RUN ./gradlew build -x test
 EXPOSE 8080
 
 # Comando para iniciar
-CMD ["java", "-jar", "build/libs/rutasuio-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "build/libs/rutasUIO-0.0.1-SNAPSHOT.jar"]
